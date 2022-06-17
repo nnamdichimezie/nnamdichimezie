@@ -1,6 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on analysing and classifying images of Vehicles
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 👯 I’m looking to collaborate on data science and machine learning projects
