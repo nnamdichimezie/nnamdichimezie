@@ -6,5 +6,4 @@
 - 💬 Ask me anything about my story in data science
 - 📫 How to reach me: https://www.linkedin.com/in/nnamdichimezie/
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I dont like python (snakes) 
--->
+- ⚡ Fun fact: I dont like python (snakes)
